@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunal Rathore.
-- 👀 I’m interested in data-driven modeling, applied AI and advance engineering ranging from Biomedical image analysis, Time Series, Environmental, CLimate Chnage, and Ecological models.
+- 👀 I’m interested in data-driven modeling, applied AI and advance engineering ranging from remote sensing analysis, time Series, environmental, climate Change and risk analytics, to complex nonlinear ecological models.
 - 🌱 I’m currently working on Scientific Machine Learning utilizing UDE framework in ecology and identifying regime shifts in dynamical systems.
 - 📫 Reach me at - kj_rathore@outlook.com
 
